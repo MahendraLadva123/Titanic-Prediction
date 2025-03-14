@@ -22,8 +22,7 @@ This project is a machine learning web application that predicts whether a passe
    ```bash
    pip install flask pandas pickle5
 2. Run the Flask app:
-```bash
-python app.py
+   ```bash
+   python app.py
 
-
-- Open http://127.0.0.1:5000/ in your browser and enter passenger details to get a prediction.
+Open http://127.0.0.1:5000/ in your browser and enter passenger details to get a prediction.
