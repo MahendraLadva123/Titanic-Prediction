@@ -1,4 +1,3 @@
-# Titanic-Prediction
 
 # Titanic Passenger Survival Prediction
 
